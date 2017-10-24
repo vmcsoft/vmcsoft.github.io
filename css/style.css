@@ -57,14 +57,14 @@ h5, .h5{
     font-weight: 700;
 } 
 a {
-    color: #aa00ff;
+    color: #21A75C;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
 }
 a:hover,
 a:focus {
-    color: #7200ca !important;
+    color: #21A75C !important;
     outline: 0;
     text-decoration: none !important;
 }
@@ -76,7 +76,7 @@ section{
     padding: 60px 0px;
 }
 .card-outline-primary{
-    border-color: #aa00ff;
+    border-color: #21A75C;
 }
 .col-fixed{
     padding: 20px 0px;
@@ -93,7 +93,7 @@ section{
     height: 45px;
 }
 .form-control:hover, .form-control:focus{
-    border-color: #aa00ff;
+    border-color: #21A75C;
 }
 .img-team{
     width: 80px;
@@ -111,7 +111,7 @@ section{
     background-color: #032EFF !important;
 }
 .bg-primary{
-    background-color: #aa00ff !important;
+    background-color: #21A75C !important;
 }
 .bg-purple{
     background-color: #3d5afe;
@@ -126,7 +126,7 @@ section{
     background-color:#ff0080;
 }
 .bg-green{
-    background-color:#aa00ff;
+    background-color:#21A75C;
 }
 .bg-red{
     background-color:#FF3B30;
@@ -163,7 +163,7 @@ section{
     text-decoration:none;
 }
 .text-primary {
-    color: #aa00ff !important;
+    color: #21A75C !important;
 }
 .text-purple{
     color: #3d5afe !important;
@@ -178,7 +178,7 @@ section{
     color:#ff0080 !important;
 }
 .text-green{
-    color:#aa00ff !important;
+    color:#21A75C !important;
 }
 .text-red{
     color:#FF3B30 !important;
@@ -223,7 +223,7 @@ section{
     background: rgba(255, 255, 255, 0.2) !important;
 }
 .btn-white {
-    color: #aa00ff;
+    color: #21A75C;
     background-color: #fff;
     border-color: #fff;
 }
@@ -241,7 +241,7 @@ section{
 
 /*social icons*/
 .text-twitter-alt, .text-facebook-alt, .text-linkedin-alt, .text-google-alt, .text-github-alt{
-    color:#aa00ff;
+    color:#21A75C;
 }
 .text-twitter, .text-twitter-alt:hover{
     color:#00aced;
